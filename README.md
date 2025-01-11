@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GitHub
+i love tea, pizza and computer
